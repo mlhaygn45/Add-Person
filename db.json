@@ -15,25 +15,11 @@
       "category": "friend"
     },
     {
-      "id": "1680473555425",
-      "firstName": "eren",
-      "lastName": "aksoy",
-      "PhoneNumber": "5536997899",
-      "category": "business"
-    },
-    {
-      "id": "1680474468409",
-      "firstName": "sd",
-      "lastName": "asd",
-      "PhoneNumber": "sad",
-      "category": "0"
-    },
-    {
-      "id": "1680474545742",
+      "id": "1680475241168",
       "firstName": "asd",
       "lastName": "asd",
-      "PhoneNumber": "asd",
-      "category": "0"
+      "PhoneNumber": "213",
+      "category": "general"
     }
   ]
 }
