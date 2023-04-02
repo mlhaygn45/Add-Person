@@ -1,0 +1,41 @@
+.headerContainer{
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 100%; 
+    background-color: chocolate;
+}
+
+.navbar .item-navlink{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+   
+
+}
+.navbar .item-navlink li a{
+text-decoration: none;
+color:wheat;
+font-size: 15px;
+font-weight: bold;
+
+
+}
+
+.navbar .item-navlink li a:hover{
+
+    color: white;
+}
+
+.activLink{
+color: rgb(73, 68, 54);
+}
+
+.homebg{
+    background-color: blue;
+}
+
+.addpersonbg{
+    background-color: grey;
+
+}

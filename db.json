@@ -1,0 +1,39 @@
+{
+  "persons": [
+    {
+      "id": "1678359717787",
+      "firstName": "eren ",
+      "lastName": "türk",
+      "PhoneNumber": "5536997896",
+      "category": "friend"
+    },
+    {
+      "id": "1680473331572",
+      "firstName": "fatih",
+      "lastName": "kurt",
+      "PhoneNumber": "5536708792",
+      "category": "friend"
+    },
+    {
+      "id": "1680473555425",
+      "firstName": "eren",
+      "lastName": "aksoy",
+      "PhoneNumber": "5536997899",
+      "category": "business"
+    },
+    {
+      "id": "1680474468409",
+      "firstName": "sd",
+      "lastName": "asd",
+      "PhoneNumber": "sad",
+      "category": "0"
+    },
+    {
+      "id": "1680474545742",
+      "firstName": "asd",
+      "lastName": "asd",
+      "PhoneNumber": "asd",
+      "category": "0"
+    }
+  ]
+}

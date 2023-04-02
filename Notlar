@@ -1,0 +1,31 @@
+
+ *db.json içerisnde verileri oluştur ve  portu ekle
+  
+
+    *   //  APP/JS //
+ 
+ Home,Editperson,Listperson adında sayfaları ekle
+         
+     // componets//
+ * Header, Listperson componetsleri olustur
+
+    *   // home //
+
+verileri çek ve bir state kaydet
+
+
+   *//Listperson//
+-boostraptan  table  ekle ve propslar yardımıyla  sayfada göster
+-kisi ekle butonu yap bunu addperson sayfasına Link ile yönlendir
+
+   *// addperson//
+  -  form-control ekle  inputlar için state oluştur name,lastname,phoneNumber formu bir fonksiyona bağla
+  -yeni bir newperson adında bir id gönder post ile db.jsona başarılıysa useNavigate ile anasayfaya yönelendir
+
+// Editperson//
+ sil ve kaydet  butonları oluştur  ana ana sayfaya yönlendir  
+ inputların içini doldur 
+ güncel bir obje olustur 
+
+
+   
